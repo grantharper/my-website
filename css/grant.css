@@ -26,4 +26,8 @@
   .navbar-default .nav > li > a:focus:hover {
     color: black;
   }
+
+  .navbar-default .navbar-header .navbar-brand .blog{
+    color: white;
+  }
 }
