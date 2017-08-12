@@ -1,5 +1,5 @@
 ## My Website Source Control
-[Deployed version](http://grantemersonharper.com)
+[Deployed version](http://grantharper.org)
 
 ## Copyright and License
 This website is a modified version of the bootstrap starter template found at [BlackrockDigital](https://github.com/BlackrockDigital/startbootstrap-creative)
